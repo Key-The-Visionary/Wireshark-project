@@ -27,7 +27,7 @@
 This Project incorporated 2 lab exercises that included using the Wireshark tool to analyze packets from an ARP spoofing attack. The first lab I will login to pfSense through the web interface and explore its features. The second lab I will use Wireshark to analyze packets from an ARP spoofing attack. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Lab 1 Exercise-Pfsense Familiarity
+**Lab 1 Exercise-Pfsense Familiarity**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 Step 1: In the Kali Linux browser, log in to pfSense by entering the router’s IP address into the URL bar. You will see a security warning saying that the security certificate is not valid. Select the option to add an exception. The pfSense firewall uses a self-signed certificate.
@@ -51,7 +51,7 @@ The Pfsense dashboard with Traffic graphs and System Information
 ![Screenshot 2024-11-22 173513](https://github.com/user-attachments/assets/02e2bc01-7c70-4bfe-960a-3c11c287dabc)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
-Excercise 2- Exploring packets in a arp spoofing attack using wireshark
+**Excercise 2- Exploring packets in a arp spoofing attack using wireshark**
 
 Download the Wireshark capture of our ARP spoofing attack (arpspoof.pcap) provided with this assignment. Open the file in Wireshark and try answering the following questions: 
 1. What are the MAC and IP addresses of the victim’s and attacker’s machines? 
